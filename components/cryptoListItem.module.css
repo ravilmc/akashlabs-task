@@ -41,7 +41,7 @@
     padding: 8px;
     border-radius: 5px;
     cursor: pointer;
-    transition: all 0.3s linear;
+    transition: all 0.1s linear;
 }
 
 .getrate:hover{

@@ -21,7 +21,7 @@ const CryptoListItem = ({ data, loadData }) => {
     show: {
       y: 0,
       opacity: 1,
-      transition: { duration: 0.2 },
+      transition: { duration: 0.2, ease: 'linear' },
     },
     hide: {
       opacity: 0,
